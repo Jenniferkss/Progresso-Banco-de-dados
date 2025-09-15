@@ -12,5 +12,7 @@ CREATE TABLE artistas (
 
 INSERT INTO artistas (nome, tipo, membros, genero_musical, pais_de_origem, ano_inicio, musica_mais_ouvida, ativo)
 VALUES 
-('MORADA','Banda',4,'Gospel','Brasil',2009,'Só Tu És Santo / Uma Coisa / Deixa Queimar / Quando Ele Vem',TRUE)
-;
+('Taylor Swift','Solo',1,'POP','EUA',2006,'Shake It Off',TRUE),
+('Forrest Frank','Solo',1,'Rock','Reino Unido',2017,'No Longer Bound',TRUE),
+('Olivia Rodrigo','Solo',1,'POP','EUA',2015,'Happier',TRUE),
+('Bruno Mars','Solo',1,'POP-Rock','EUA',2000,'Die With A Smile',TRUE);
