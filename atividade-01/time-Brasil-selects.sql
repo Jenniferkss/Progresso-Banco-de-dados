@@ -6,4 +6,4 @@ SELECT nome, rebaixado FROM times_brasil
 WHERE rebaixado = 'FALSE';
 
 SELECT nome,numero_titulos FROM times_brasil
-WHERE id = 1 
+WHERE id = 1; 
