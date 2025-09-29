@@ -32,3 +32,9 @@ INSERT INTO maquiagens (nome,marca,preco,categoria,estoque)
 VALUES
 ('Balm fran by franciny ehlke stick tint','FRAN',40.00,'Maquiagem', 100),
 ('Blush liquido cloud crush whipped lip & cheek','TOO FACED',200.00,'Maquiagem', 100),
+
+INSERT INTO maquiagens (nome,marca,preco,categoria,estoque)
+VALUES
+('Bruma Fixadora All Nighter', 'Urban Decay', 190.00, 'Maquiagem', 250),
+('Esfoliante Facial Exfoliating Polish', 'ZO Skin Health', 350.00, 'Skincare', 15),
+('Creme Hidratante The True Cream Aqua Bomb', 'Belif', 140.00, 'Skincare', 50);
